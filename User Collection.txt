@@ -1,0 +1,8 @@
+{
+  "_id": "ObjectId",
+  "username": "string",
+  "email": "string",
+  "password": "string",
+  "roles": ["string"],  // e.g., ["USER", "ADMIN"]
+  "createdAt": "ISODate"
+}

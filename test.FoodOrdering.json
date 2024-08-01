@@ -1,0 +1,12 @@
+
+
+{
+  "userId": "unique_user_id", 
+  "email": "user@example.com", 
+  "passwordHash": "hashed_password", 
+  "createdAt": "timestamp", 
+  "updatedAt": "timestamp" 
+}
+
+
+  
